@@ -16,4 +16,7 @@ CleanDataframe <- function()
   return(cleanDfStates)
 }
 
-CleanDataframe
+CleanDataframe()
+
+#Initializing arrests with USArrests data
+arrests <- USArrests
