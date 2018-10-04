@@ -6,9 +6,15 @@
     "edges": [],
     "nodes": [
         {
-            "name": "clean.R"
+            "assigned_to": "achandir",
+            "name": "clean.R",
+            "task_status": "in progress"
+        },
+        {
+            "desc": "",
+            "name": "understanding_distributions.R"
         }
     ],
-    "updated_at": "2018-10-04 15:15:03",
+    "updated_at": "2018-10-04 15:26:43",
     "url": "https://github.com/fall2018-saltz/chandiramani_akshita_hw_6"
 }
