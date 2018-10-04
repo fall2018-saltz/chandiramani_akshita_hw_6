@@ -13,3 +13,5 @@ CleanDataframe <- function()
   cleanDfStates <- dfStates_reqCols
   return(cleanDfStates)
 }
+
+CleanDataframe
