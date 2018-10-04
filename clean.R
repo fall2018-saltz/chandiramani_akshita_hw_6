@@ -20,3 +20,4 @@ cleanDfStates <- CleanDataframe()
 
 #Initializing arrests with USArrests data
 arrests <- USArrests
+head(arrests)
